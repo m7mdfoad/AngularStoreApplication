@@ -1,0 +1,14 @@
+table, th, td {
+  border: 1px solid black;
+  min-width: 200px;
+  justify-content: center;
+}
+table{
+  display: table;
+  width:auto;
+}
+
+.innerDiv{
+  height: fit-content;
+
+}

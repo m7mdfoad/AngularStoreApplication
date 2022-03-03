@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  flex-direction: column-reverse;
+  border-top: black solid 1px;
+  align-items: center;
+  white-space: nowrap;
+  flex-wrap: wrap;
+  margin: 0;
+  background: #fd3b3b;
+  font-size: 20px;
+}

@@ -1,0 +1,28 @@
+.logo{
+  position: relative;
+  display: initial;
+  height: 50px;
+  width: 50px;
+  margin-left:10px ;
+
+}
+
+.container{
+  height: 50px;
+  border-bottom: black solid 1px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  background: -webkit-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+  background: -o-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+  background: -moz-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+  /*background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);*/
+  background: linear-gradient(110deg, #fd3b3b 60%, #fdcd3b 60%);
+}
+
+h1{
+  font-size: 50px;
+  font-family: monospace;
+  font-weight: bolder;
+}
